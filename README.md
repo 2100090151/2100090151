@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2100090151&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2100090151&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://scontent.fvga5-1.fna.fbcdn.net/v/t39.30808-6/311906565_802644711066497_175200029404678980_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5614bc&_nc_ohc=vbS7XEaMsAIAX9XfzFI&_nc_ht=scontent.fvga5-1.fna&oh=00_AfDYc7Jgnw-MC3bYVx95B6ck44EfjuPqwg-B7iLus_Sxjw&oe=64FC8B36"  />
 
 # 💫 About Me:
