@@ -237,6 +237,21 @@ Computer Science graduate with strong foundations in data structures, algorithms
 
 ---
 
+## 📈 Contribution Graph
+[![Deepak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2100090151&theme=tokyo-night)](https://github.com/2100090151)
+
+---
+
+## 🔥 Contribution Heatmap
+![](https://ghchart.rshah.org/2100090151)
+
+---
+
+## 🐍 Contribution Snake
+![GitHub Snake Dark](https://raw.githubusercontent.com/2100090151/2100090151/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=2100090151&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
